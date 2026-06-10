@@ -1,4 +1,4 @@
-# 
+# Nativo vLLM scripts. Con modelos híbridos de IA y generación de código — optimizado para el máximo rendimiento y eficiencia.
 
 
 
